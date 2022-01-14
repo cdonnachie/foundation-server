@@ -11,7 +11,9 @@
     "poolserver",
     "bitcoin",
     "litecoin",
-    "scrypt"
+    "scrypt",
+    "avian",
+    "minotaurx"
   ],
   "homepage": "https://github.com/blinkhash/foundation-server",
   "bugs": {
@@ -42,7 +44,7 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/blinkhash/foundation-server.git"
+    "url": "https://github.com/cdonnachie/foundation-server.git"
   },
   "dependencies": {
     "apicache": "^1.6.3",
